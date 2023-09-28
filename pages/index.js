@@ -5,7 +5,7 @@ import { Star, ShoppingCart } from "@phosphor-icons/react";
 export default function App() {
   return (
     <PrismaneProvider>
-    <Card w={360} gap={fr(2)}>
+    <Card w={360} gap={fr(2)} className="card">
       <Image
         src="https://img.freepik.com/free-photo/black-headphones-digital-device_53876-96805.jpg?size=626&ext=jpg&ga=GA1.1.460882575.1681882906&semt=sph"
         br="md"
