@@ -1,4 +1,4 @@
-#How to run the project locally:
+# How to run the project locally:
 
 - git clone https://github.com/gatwirival/prismane-ui-demo.git
 - cd prismane-ui-demo
